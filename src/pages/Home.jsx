@@ -1,13 +1,11 @@
-import React, { useState } from "react";
+
 import Button from "../comp/Button";
-import Card from "../comp/Card";
 import Section1 from "../comp/section_1";
 import Section2 from "../comp/section_2";
 import Section3 from "../comp/Section_3";
 import Section_4 from "../comp/Section_4";
 import Section5 from "../comp/Section_5";
 import Footer from "../comp/Footer";
-import { Link, NavLink } from 'react-router'
 import Header from "./Header";
 
 
