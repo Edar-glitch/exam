@@ -12,7 +12,7 @@ function Home() {
     <div className="relative w-full h-screen">
       <img
         src="/fon.svg"
-        alt=""
+        alt="altofimage"
         className="absolute inset-0 w-full h-full object-cover z-0"
       />
 
