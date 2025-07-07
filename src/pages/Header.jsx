@@ -14,7 +14,7 @@ function Header() {
     return (
         <div>
             <header className="mt-[26px] flex justify-between items-center px-4 md:px-12 relative">
-                <div className="flex items-center gap-4">
+                <div className="flex items-center gap-2">
                     <img src="/header_Logo.svg" alt="Logo" />
                     <h1 className="font-light text-black text-[30px]">Levyna</h1>
                 </div>
